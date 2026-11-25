@@ -36,7 +36,10 @@ Abstracts are **not** redistributed. Abstracts of the 123 papers added from the 
 - `extra_name_variants.csv`: English name variants of HUB in OpenAlex raw affiliation strings, by period.
 - `hvnh_list.csv`: the parsed HVNH lists.
 - `r1_outputs/`: outputs of the revision analyses: LDA comparison (`lda_*`), label validation (`label_check_HUB.*`), model-free keyword trend (`keyword_trend.json`), liquidity-topic check (`liquidity_check.json`), and list-based coverage (`list_coverage*`).
-- `ueh/`: UEH identifiers, screening summary and topic-model outputs.
+- `ueh/`: UEH paper list (`ueh_papers.csv`: OpenAlex ID, DOI, year, type, abstract flag, UEH author IDs), query and screening summary, K grid (`grid.json`), the chosen K = 13 model (`analysis_k13.json`, `names.json`) and the HUB–UEH comparison (`summary_R1.json`). No K in 5–15 met the pre-specified rule, so the fallback (highest minimum title-only cosine) was used.
+
+### `appendix/`
+- `online_appendix_vi.pdf`: the online appendix (in Vietnamese).
 
 ### `code/`
 - `reproduce_main_results.py`: self-contained reproduction of the main HUB results from `data/`.

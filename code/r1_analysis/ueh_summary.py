@@ -24,6 +24,8 @@ def main():
     g = next(r for r in grid["results"] if r["k"] == k)
     n_title = sum(c >= 0.5 for c in g["title_cos"])
     n_abs = sum(t["abstract_only_cos"] >= 0.5 for t in a["topics"])
+    n_all = sum(g["title_cos"][t["topic"]] >= 0.5 and t["abstract_only_cos"] >= 0.5 and g["seed_cos"][t["topic"]] >= 0.5
+                for t in a["topics"])
     npairs = k * (k - 1) // 2
     top10 = a["author_concentration"]["top10"]["share"]
     rows = [
@@ -33,7 +35,9 @@ def main():
         ["Số chủ đề *K* được chọn", "8", str(k)],
         ["Số chủ đề xuất hiện lại khi chỉ dùng tiêu đề (cosin ≥ 0,50)", "8/8", f"{n_title}/{k}"],
         ["Số chủ đề xuất hiện lại khi chỉ dùng bài có tóm tắt (cosin ≥ 0,50)", "7/8", f"{n_abs}/{k}"],
-        ["Số cặp chủ đề đạt quy tắc liên kết và kiểm định Bonferroni", "1/28", f"{a['n_links_passing_rule_and_bonferroni']}/{npairs}"],
+        ["Số chủ đề vượt qua cả ba phép kiểm tra (cosin ≥ 0,50)", "7/8", f"{n_all}/{k}"],
+        ["Mô hình thỏa luật chọn *K* định trước", "Có", "Không (dùng luật dự phòng)" if not grid["qualifying_k"] else "Có"],
+        ["Số cặp chủ đề đạt quy tắc liên kết và kiểm định Bonferroni", "1/28", f"{int(a['n_links_passing_rule_and_bonferroni'])}/{npairs}"],
         ["Số chủ đề có khoảng bootstrap 95% của mức thay đổi không chứa 0", "2/8", f"{len(a['robust_trends'])}/{k}"],
     ]
     out = {"rows": rows, "k": k, "qualifying_k": grid["qualifying_k"], "n_title": n_title, "n_abs": n_abs}

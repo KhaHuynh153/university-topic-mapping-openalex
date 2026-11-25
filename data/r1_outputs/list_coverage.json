@@ -45,5 +45,71 @@
         "C_strings_without_name": 1
       }
     }
+  },
+  "query_date": "2026-11-25",
+  "HVNH": {
+    "n_linked_records_2016_2025": 1084,
+    "n_list_items": 681,
+    "status": {
+      "covered": 517,
+      "A_not_in_openalex": 87,
+      "D_name_string_not_linked": 10,
+      "B_no_affiliation_string": 53,
+      "C_strings_without_name": 14
+    },
+    "covered_share": 0.7592,
+    "by_year": {
+      "2020": {
+        "covered": 57,
+        "A_not_in_openalex": 15,
+        "D_name_string_not_linked": 1,
+        "B_no_affiliation_string": 10
+      },
+      "2021": {
+        "A_not_in_openalex": 11,
+        "covered": 52,
+        "C_strings_without_name": 4,
+        "B_no_affiliation_string": 6,
+        "D_name_string_not_linked": 2
+      },
+      "2022": {
+        "covered": 53,
+        "D_name_string_not_linked": 3,
+        "A_not_in_openalex": 11,
+        "B_no_affiliation_string": 1,
+        "C_strings_without_name": 2
+      },
+      "2023": {
+        "covered": 68,
+        "B_no_affiliation_string": 3,
+        "C_strings_without_name": 5,
+        "A_not_in_openalex": 8,
+        "D_name_string_not_linked": 2
+      },
+      "2024": {
+        "covered": 111,
+        "B_no_affiliation_string": 13,
+        "A_not_in_openalex": 18,
+        "C_strings_without_name": 2
+      },
+      "2025": {
+        "covered": 176,
+        "D_name_string_not_linked": 2,
+        "B_no_affiliation_string": 20,
+        "C_strings_without_name": 1,
+        "A_not_in_openalex": 24
+      }
+    }
+  },
+  "HVNH_2020_2024": {
+    "n": 458,
+    "status": {
+      "covered": 341,
+      "A_not_in_openalex": 63,
+      "D_name_string_not_linked": 8,
+      "B_no_affiliation_string": 33,
+      "C_strings_without_name": 13
+    },
+    "covered_share": 0.7445
   }
 }
