@@ -1,0 +1,49 @@
+{
+  "HUB": {
+    "snapshot": "2026-10-24 (local)",
+    "n_linked_records_2016_2025": 1501,
+    "n_list_items": 315,
+    "status": {
+      "covered": 177,
+      "B_no_affiliation_string": 31,
+      "A_not_in_openalex": 96,
+      "D_name_string_not_linked": 2,
+      "C_strings_without_name": 9
+    },
+    "covered_share": 0.5619,
+    "by_year": {
+      "2020": {
+        "covered": 14,
+        "B_no_affiliation_string": 4,
+        "A_not_in_openalex": 10,
+        "D_name_string_not_linked": 1,
+        "C_strings_without_name": 1
+      },
+      "2021": {
+        "C_strings_without_name": 4,
+        "covered": 18,
+        "B_no_affiliation_string": 12,
+        "A_not_in_openalex": 21
+      },
+      "2022": {
+        "covered": 15,
+        "A_not_in_openalex": 21,
+        "B_no_affiliation_string": 6,
+        "C_strings_without_name": 1
+      },
+      "2023": {
+        "covered": 67,
+        "A_not_in_openalex": 26,
+        "C_strings_without_name": 2,
+        "D_name_string_not_linked": 1,
+        "B_no_affiliation_string": 6
+      },
+      "2024": {
+        "A_not_in_openalex": 18,
+        "covered": 63,
+        "B_no_affiliation_string": 3,
+        "C_strings_without_name": 1
+      }
+    }
+  }
+}

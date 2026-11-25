@@ -1,0 +1,641 @@
+[
+  {
+    "scenario": "title_only",
+    "n": 1337,
+    "error": 0.9642398953437805,
+    "aligned_cosine": [
+      0.7379665374755859,
+      0.7653108239173889,
+      0.9143293499946594,
+      0.6761130094528198,
+      0.8903758525848389,
+      0.938212513923645,
+      0.6830905675888062,
+      0.9051339030265808
+    ],
+    "alignment_order": [
+      2,
+      5,
+      3,
+      0,
+      4,
+      1,
+      7,
+      6
+    ],
+    "aligned_top_terms": [
+      [
+        "learning",
+        "students",
+        "covid-",
+        "pandemic",
+        "language",
+        "covid- pandemic",
+        "english",
+        "chinese",
+        "enterprises",
+        "small",
+        "teaching",
+        "small medium"
+      ],
+      [
+        "banking",
+        "brand",
+        "sector",
+        "service",
+        "quality",
+        "management",
+        "banking sector",
+        "social",
+        "customer",
+        "service quality",
+        "intention",
+        "satisfaction"
+      ],
+      [
+        "bank",
+        "policy",
+        "monetary",
+        "liquidity",
+        "monetary policy",
+        "uncertainty",
+        "bank liquidity",
+        "stability",
+        "bank stability",
+        "profitability",
+        "lending",
+        "funding"
+      ],
+      [
+        "financial",
+        "countries",
+        "development",
+        "developing",
+        "asean",
+        "financial development",
+        "developing countries",
+        "trade",
+        "bayesian",
+        "asean countries",
+        "financial inclusion",
+        "inclusion"
+      ],
+      [
+        "banks",
+        "commercial",
+        "commercial banks",
+        "affecting",
+        "performance",
+        "performance commercial",
+        "credit",
+        "risk",
+        "financial",
+        "capital",
+        "financial performance",
+        "stability commercial"
+      ],
+      [
+        "fractional",
+        "equations",
+        "differential",
+        "differential equations",
+        "fuzzy",
+        "equation",
+        "fractional differential",
+        "stability",
+        "derivative",
+        "solutions",
+        "value",
+        "random"
+      ],
+      [
+        "economic",
+        "growth",
+        "economic growth",
+        "innovation",
+        "economic innovation",
+        "transformation",
+        "policy",
+        "economic policy",
+        "endogenous",
+        "relation",
+        "digital transformation",
+        "emerging economies"
+      ],
+      [
+        "stock",
+        "market",
+        "stock market",
+        "portfolio",
+        "returns",
+        "listed",
+        "optimization",
+        "price",
+        "stock price",
+        "market returns",
+        "portfolio optimization",
+        "companies"
+      ]
+    ],
+    "mean_aligned_cosine": 0.8138165697455406,
+    "min_aligned_cosine": 0.6761130094528198,
+    "periods": [
+      {
+        "period": "2016-2017",
+        "n": 78,
+        "mean_shares": [
+          0.08605601638555527,
+          0.2572154402732849,
+          0.07159528136253357,
+          0.14442473649978638,
+          0.028431959450244904,
+          0.19876539707183838,
+          0.11409314721822739,
+          0.08659753203392029
+        ]
+      },
+      {
+        "period": "2018-2019",
+        "n": 139,
+        "mean_shares": [
+          0.08260040730237961,
+          0.22413459420204163,
+          0.07540035247802734,
+          0.14614927768707275,
+          0.060488007962703705,
+          0.193697988986969,
+          0.10826139152050018,
+          0.10926797240972519
+        ]
+      },
+      {
+        "period": "2020-2021",
+        "n": 305,
+        "mean_shares": [
+          0.1851084977388382,
+          0.18063139915466309,
+          0.14257590472698212,
+          0.13820776343345642,
+          0.09067095071077347,
+          0.07910740375518799,
+          0.0911979079246521,
+          0.09250015765428543
+        ]
+      },
+      {
+        "period": "2022-2023",
+        "n": 415,
+        "mean_shares": [
+          0.20511484146118164,
+          0.21402104198932648,
+          0.09893705695867538,
+          0.18235564231872559,
+          0.06063832342624664,
+          0.07370571047067642,
+          0.06928277760744095,
+          0.09353496134281158
+        ]
+      },
+      {
+        "period": "2024-2025",
+        "n": 400,
+        "mean_shares": [
+          0.15958724915981293,
+          0.24132615327835083,
+          0.07235302776098251,
+          0.19554394483566284,
+          0.07852409780025482,
+          0.07330635190010071,
+          0.09145904332399368,
+          0.08290017396211624
+        ]
+      }
+    ]
+  },
+  {
+    "scenario": "abstract_subset",
+    "n": 985,
+    "error": 0.9521308541297913,
+    "aligned_cosine": [
+      0.9887202978134155,
+      0.9772558808326721,
+      0.06336913257837296,
+      0.9768611788749695,
+      0.823032021522522,
+      0.98072350025177,
+      0.9032813906669617,
+      0.9391722679138184
+    ],
+    "alignment_order": [
+      1,
+      2,
+      3,
+      0,
+      7,
+      5,
+      6,
+      4
+    ],
+    "aligned_top_terms": [
+      [
+        "students",
+        "learning",
+        "teaching",
+        "language",
+        "english",
+        "education",
+        "learners",
+        "teachers",
+        "skills",
+        "school",
+        "knowledge",
+        "chinese"
+      ],
+      [
+        "brand",
+        "satisfaction",
+        "customer",
+        "quality",
+        "service",
+        "perceived",
+        "social",
+        "intention",
+        "service quality",
+        "online",
+        "loyalty",
+        "customers"
+      ],
+      [
+        "industrial",
+        "green",
+        "development",
+        "digital",
+        "tourism",
+        "business",
+        "management",
+        "human",
+        "clusters",
+        "industrial clusters",
+        "infrastructure",
+        "environmental"
+      ],
+      [
+        "financial",
+        "financial inclusion",
+        "stability",
+        "inclusion",
+        "bank stability",
+        "financial development",
+        "financial stability",
+        "threshold",
+        "development",
+        "countries",
+        "banking",
+        "financial performance"
+      ],
+      [
+        "banks",
+        "bank",
+        "commercial",
+        "commercial banks",
+        "liquidity",
+        "banking",
+        "risk",
+        "uncertainty",
+        "credit",
+        "lending",
+        "capital",
+        "monetary"
+      ],
+      [
+        "fractional",
+        "equations",
+        "differential",
+        "fuzzy",
+        "solution",
+        "problem",
+        "equation",
+        "existence",
+        "derivative",
+        "differential equations",
+        "solutions",
+        "stability"
+      ],
+      [
+        "growth",
+        "economic",
+        "trade",
+        "countries",
+        "economic growth",
+        "asean",
+        "fdi",
+        "asean countries",
+        "bayesian",
+        "investment",
+        "export",
+        "foreign"
+      ],
+      [
+        "stock",
+        "market",
+        "firms",
+        "stock market",
+        "corporate",
+        "investors",
+        "price",
+        "listed",
+        "companies",
+        "portfolio",
+        "stock price",
+        "risk"
+      ]
+    ],
+    "mean_aligned_cosine": 0.8315519588068128,
+    "min_aligned_cosine": 0.06336913257837296,
+    "periods": [
+      {
+        "period": "2016-2017",
+        "n": 42,
+        "mean_shares": [
+          0.067881740629673,
+          0.2218725085258484,
+          0.11677997559309006,
+          0.021118348464369774,
+          0.08792132139205933,
+          0.2404094636440277,
+          0.13556373119354248,
+          0.10845286399126053
+        ]
+      },
+      {
+        "period": "2018-2019",
+        "n": 80,
+        "mean_shares": [
+          0.1166611760854721,
+          0.14566540718078613,
+          0.1134055033326149,
+          0.04883095622062683,
+          0.09835824370384216,
+          0.21139054000377655,
+          0.138020858168602,
+          0.12766730785369873
+        ]
+      },
+      {
+        "period": "2020-2021",
+        "n": 213,
+        "mean_shares": [
+          0.13622143864631653,
+          0.1125389039516449,
+          0.13463306427001953,
+          0.04997808113694191,
+          0.18282948434352875,
+          0.07045315951108932,
+          0.148135706782341,
+          0.16521015763282776
+        ]
+      },
+      {
+        "period": "2022-2023",
+        "n": 298,
+        "mean_shares": [
+          0.14452742040157318,
+          0.1241290345788002,
+          0.22002696990966797,
+          0.05969727784395218,
+          0.13259992003440857,
+          0.050833918154239655,
+          0.11167292296886444,
+          0.1565125435590744
+        ]
+      },
+      {
+        "period": "2024-2025",
+        "n": 352,
+        "mean_shares": [
+          0.10578792542219162,
+          0.18061546981334686,
+          0.190553680062294,
+          0.07728493958711624,
+          0.11313047260046005,
+          0.0489857941865921,
+          0.15308623015880585,
+          0.13055554032325745
+        ]
+      }
+    ]
+  },
+  {
+    "scenario": "inherited_only",
+    "n": 1214,
+    "error": 0.9554458260536194,
+    "aligned_cosine": [
+      0.993429958820343,
+      0.9945619702339172,
+      0.9978765249252319,
+      0.9942042827606201,
+      0.9940516948699951,
+      0.9999014139175415,
+      0.9968128204345703,
+      0.9907709360122681
+    ],
+    "alignment_order": [
+      1,
+      5,
+      4,
+      3,
+      2,
+      6,
+      0,
+      7
+    ],
+    "aligned_top_terms": [
+      [
+        "students",
+        "learning",
+        "teaching",
+        "language",
+        "english",
+        "education",
+        "learners",
+        "teachers",
+        "skills",
+        "knowledge",
+        "school",
+        "academic"
+      ],
+      [
+        "brand",
+        "social",
+        "customer",
+        "quality",
+        "satisfaction",
+        "intention",
+        "perceived",
+        "service",
+        "online",
+        "digital",
+        "service quality",
+        "loyalty"
+      ],
+      [
+        "bank",
+        "liquidity",
+        "uncertainty",
+        "monetary",
+        "policy",
+        "monetary policy",
+        "lending",
+        "funding",
+        "bank liquidity",
+        "liquidity creation",
+        "bank lending",
+        "creation"
+      ],
+      [
+        "financial",
+        "stability",
+        "financial inclusion",
+        "inclusion",
+        "financial stability",
+        "bank stability",
+        "financial development",
+        "bayesian",
+        "development",
+        "bank",
+        "macroprudential",
+        "banking"
+      ],
+      [
+        "banks",
+        "commercial",
+        "commercial banks",
+        "risk",
+        "credit",
+        "capital",
+        "performance",
+        "banking",
+        "bank",
+        "efficiency",
+        "credit risk",
+        "ratio"
+      ],
+      [
+        "fractional",
+        "equations",
+        "differential",
+        "differential equations",
+        "fuzzy",
+        "problem",
+        "derivative",
+        "solution",
+        "fractional differential",
+        "equation",
+        "solutions",
+        "existence"
+      ],
+      [
+        "economic",
+        "growth",
+        "economic growth",
+        "countries",
+        "development",
+        "trade",
+        "asean",
+        "fdi",
+        "investment",
+        "economy",
+        "green",
+        "developing"
+      ],
+      [
+        "stock",
+        "market",
+        "stock market",
+        "firms",
+        "investors",
+        "price",
+        "listed",
+        "corporate",
+        "companies",
+        "stock price",
+        "portfolio",
+        "returns"
+      ]
+    ],
+    "mean_aligned_cosine": 0.9952012002468109,
+    "min_aligned_cosine": 0.9907709360122681,
+    "periods": [
+      {
+        "period": "2016-2017",
+        "n": 78,
+        "mean_shares": [
+          0.07553783804178238,
+          0.20948131382465363,
+          0.04285693168640137,
+          0.07739480584859848,
+          0.08886205404996872,
+          0.2021360844373703,
+          0.17079482972621918,
+          0.13293617963790894
+        ]
+      },
+      {
+        "period": "2018-2019",
+        "n": 139,
+        "mean_shares": [
+          0.09738238155841827,
+          0.18258699774742126,
+          0.08378415554761887,
+          0.06852157413959503,
+          0.08301140367984772,
+          0.17198888957500458,
+          0.17623533308506012,
+          0.13648924231529236
+        ]
+      },
+      {
+        "period": "2020-2021",
+        "n": 252,
+        "mean_shares": [
+          0.14451813697814941,
+          0.14284147322177887,
+          0.14484719932079315,
+          0.06084486469626427,
+          0.11114818602800369,
+          0.07402216643095016,
+          0.2011062055826187,
+          0.12067162245512009
+        ]
+      },
+      {
+        "period": "2022-2023",
+        "n": 359,
+        "mean_shares": [
+          0.1711532175540924,
+          0.17450693249702454,
+          0.09068473428487778,
+          0.07342010736465454,
+          0.0901840552687645,
+          0.06632128357887268,
+          0.19923783838748932,
+          0.13449175655841827
+        ]
+      },
+      {
+        "period": "2024-2025",
+        "n": 386,
+        "mean_shares": [
+          0.12780265510082245,
+          0.2418837547302246,
+          0.04652118682861328,
+          0.07865460216999054,
+          0.10776904970407486,
+          0.07221990823745728,
+          0.2158920019865036,
+          0.10666628181934357
+        ]
+      }
+    ]
+  }
+]

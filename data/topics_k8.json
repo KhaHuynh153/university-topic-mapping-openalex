@@ -1,0 +1,586 @@
+[
+  {
+    "topic": 0,
+    "top_terms": [
+      "students",
+      "learning",
+      "teaching",
+      "language",
+      "english",
+      "education",
+      "learners",
+      "chinese",
+      "skills",
+      "teachers",
+      "knowledge",
+      "school",
+      "problems",
+      "law",
+      "academic"
+    ],
+    "npmi": 0.4195601602186232,
+    "mean_share": 0.14312881231307983,
+    "stability_cosine": 0.9848174214363098,
+    "representative_works": [
+      {
+        "id": "https://openalex.org/W3201107750",
+        "title": "Discovery Teaching about Calculating Side Lengths of Right Triangles Using Pythagoras Theorem with the Help of Geogebra Software",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3200391733",
+        "title": "Applying 5E teaching model in recognizing regular polygons and rotations with the help of GeoGebra software",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4366984822",
+        "title": "Chinese Reading Learning Strategies of Vietnamese Students",
+        "year": 2023,
+        "share": 1.0
+      },
+      {
+        "id": "HUB-review:AF-050",
+        "title": "Learning Motivations in Native Language Environment: A Study of Vietnamese Elementary Learners of Chinese",
+        "year": 2020,
+        "share": 1.0
+      },
+      {
+        "id": "https://doi.org/10.47191/ijsshr/v6-i9-57",
+        "title": "The Effect of Cognitive Linguistic Approach in Teaching English Vocabulary",
+        "year": 2023,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4391222405",
+        "title": "Attitude Towards Learning English: A Perspective from Students in Ho Chi Minh City",
+        "year": 2023,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3110356604",
+        "title": "Using the Problem-Based Learning in STEM Teaching About Bamboo Toothpick Houses",
+        "year": 2020,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4310809506",
+        "title": "A study on the learning attribution of Chinese language majors in a university in Ho Chi Minh City, Vietnam",
+        "year": 2022,
+        "share": 1.0
+      }
+    ]
+  },
+  {
+    "topic": 1,
+    "top_terms": [
+      "brand",
+      "quality",
+      "customer",
+      "satisfaction",
+      "service",
+      "social",
+      "perceived",
+      "intention",
+      "service quality",
+      "online",
+      "customers",
+      "digital",
+      "trust",
+      "loyalty",
+      "banking"
+    ],
+    "npmi": 0.32530693376484243,
+    "mean_share": 0.18701812624931335,
+    "stability_cosine": 0.9322242259979248,
+    "representative_works": [
+      {
+        "id": "https://openalex.org/W4288041785",
+        "title": "Investigating the relationship between brand experience, brand authenticity, brand equity, and customer satisfaction: Evidence from Vietnam",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4225701394",
+        "title": "Understanding how upward social comparison stimulates impulse buying on image-sharing social commerce platforms: A moderated mediation model of benign envy and self-esteem",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3021518118",
+        "title": "The effects of brand page characteristics on customer brand engagement: moderating roles of community involvement and comedy production contents",
+        "year": 2020,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4206075874",
+        "title": "What facilitate people to do charity? The impact of brand anthropomorphism, brand familiarity and brand trust on charity support intention",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4221079719",
+        "title": "Impact Of Brand Equity On Consumer Purchase Decision: A Case Study Of Mobile Retailer In Hochiminh City, Vietnam",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4313469612",
+        "title": "A moderated mediation model of situational context and brand image for online purchases using eWOM",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://doi.org/10.53106/102596272022090473002",
+        "title": "Generating positive online word of mouth via brand image and trust: The moderation role of perceived privacy",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W7164657416",
+        "title": "Trust in sellers and purchase intention in social commerce: a study of the fashion industry",
+        "year": 2025,
+        "share": 1.0
+      }
+    ]
+  },
+  {
+    "topic": 2,
+    "top_terms": [
+      "bank",
+      "liquidity",
+      "uncertainty",
+      "monetary",
+      "policy",
+      "monetary policy",
+      "lending",
+      "funding",
+      "bank liquidity",
+      "liquidity creation",
+      "bank lending",
+      "policy uncertainty",
+      "creation",
+      "profitability",
+      "banks"
+    ],
+    "npmi": 0.3474318320420305,
+    "mean_share": 0.08438368141651154,
+    "stability_cosine": 0.739300444163382,
+    "representative_works": [
+      {
+        "id": "https://openalex.org/W3167491581",
+        "title": "The effects of policy uncertainty on bank loan loss provisions",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3131769355",
+        "title": "How do bank characteristics affect the bank liquidity creation channel of monetary policy?",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4224234225",
+        "title": "Bank liquidity creation under micro uncertainty: The conditioning role of income structure",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4200522596",
+        "title": "Bank profitability under uncertainty",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3169171599",
+        "title": "Policy uncertainty, the use of derivatives: Evidence from U.S. bank holdingcompanies (BHCs)",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3044123884",
+        "title": "The conditioning role of performance on the bank risk-taking channel of monetary policy: Evidence from a multiple-tool regime",
+        "year": 2020,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3169345979",
+        "title": "Liquidity injection, bank lending, and security holdings: The asymmetric effects in Vietnam",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3014062153",
+        "title": "Bank business models and liquidity creation",
+        "year": 2020,
+        "share": 1.0
+      }
+    ]
+  },
+  {
+    "topic": 3,
+    "top_terms": [
+      "financial",
+      "stability",
+      "financial inclusion",
+      "inclusion",
+      "financial stability",
+      "financial development",
+      "bank stability",
+      "bayesian",
+      "development",
+      "countries",
+      "distress",
+      "financial performance",
+      "threshold",
+      "determinants",
+      "financial distress"
+    ],
+    "npmi": 0.12976508978768328,
+    "mean_share": 0.07135698199272156,
+    "stability_cosine": 0.9648703157901763,
+    "representative_works": [
+      {
+        "id": "https://openalex.org/W4285235621",
+        "title": "Factors Influencing the Financial Development—A Metadata Analysis",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4285123932",
+        "title": "The Determinants of Financial Inclusion in Asia—A Bayesian Approach",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4399331187",
+        "title": "Nonlinear impact of financial inclusion on tax revenue: evidence from the Monte-Carlo simulation algorithm under the Bayesian approach",
+        "year": 2024,
+        "share": 0.9607
+      },
+      {
+        "id": "https://doi.org/10.21833/ijaas.2023.08.020",
+        "title": "Mapping the landscape of financial inclusion research: A comprehensive bibliometric analysis (1998-2023)",
+        "year": 2023,
+        "share": 0.9586
+      },
+      {
+        "id": "https://openalex.org/W4297825930",
+        "title": "HOW DO SOCIO-DEMOGRAPHIC CHARACTERISTICS INFLUENCE THE PROBABILITY OF FINANCIAL INCLUSION? EVIDENCE FROM A TRANSITIONAL ECONOMY",
+        "year": 2022,
+        "share": 0.9534
+      },
+      {
+        "id": "https://openalex.org/W2901318745",
+        "title": "Using Confirmation Factor Analysis to Construct a Financial Stability Index for Vietnam",
+        "year": 2018,
+        "share": 0.9504
+      },
+      {
+        "id": "https://openalex.org/W4393276043",
+        "title": "Unveiling financial inclusion dynamics: Fintech's resonance in Association of Southeast Asian Nations (ASEAN)",
+        "year": 2024,
+        "share": 0.9348
+      },
+      {
+        "id": "https://openalex.org/W4308201679",
+        "title": "Impact of financial inclusion on banking stability in ASEAN countries – threshold financial inclusion",
+        "year": 2022,
+        "share": 0.9285
+      }
+    ]
+  },
+  {
+    "topic": 4,
+    "top_terms": [
+      "banks",
+      "commercial",
+      "commercial banks",
+      "credit",
+      "risk",
+      "capital",
+      "banking",
+      "performance",
+      "efficiency",
+      "credit risk",
+      "bank",
+      "ratio",
+      "management",
+      "affecting",
+      "income"
+    ],
+    "npmi": 0.31362115903617366,
+    "mean_share": 0.09836865961551666,
+    "stability_cosine": 0.8110289588570595,
+    "representative_works": [
+      {
+        "id": "https://openalex.org/W2900601192",
+        "title": "Analyzing Factors Affecting Risk Management of Commercial Banks in Ho Chi Minh City – Vietnam",
+        "year": 2018,
+        "share": 1.0
+      },
+      {
+        "id": "HUB-review:AF-013",
+        "title": "Factors Affecting the Capital Adequacy Ratio (CAR): A Case Study of Joint-Stock Commercial Banks in Vietnam",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4285205011",
+        "title": "What Affects the Capital Adequacy Ratio? A Clear Look at Vietnamese Commercial Banks",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2901113401",
+        "title": "Analysis of the Factors Affecting Credit Risk of Commercial Banks in Vietnam",
+        "year": 2018,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2900619654",
+        "title": "The Level of Voluntary Information Disclosure in Vietnamese Commercial Banks",
+        "year": 2018,
+        "share": 0.9992
+      },
+      {
+        "id": "https://openalex.org/W2977051240",
+        "title": "Income Diversification and Bank Efficiency in Vietnam",
+        "year": 2017,
+        "share": 0.9935
+      },
+      {
+        "id": "https://openalex.org/W4388290561",
+        "title": "Credit risk of Vietnamese commercial banks: does capital structure matter?",
+        "year": 2023,
+        "share": 0.991
+      },
+      {
+        "id": "HUB-review:AF-002",
+        "title": "MANAGEMENT CAPACITY IMPACTING ON THE BANKING SERVICEOF THE COMMERCIAL BANKS IN DONG NAI PROVINCE",
+        "year": 2020,
+        "share": 0.989
+      }
+    ]
+  },
+  {
+    "topic": 5,
+    "top_terms": [
+      "fractional",
+      "equations",
+      "differential",
+      "differential equations",
+      "fuzzy",
+      "problem",
+      "derivative",
+      "solution",
+      "fractional differential",
+      "equation",
+      "solutions",
+      "existence",
+      "stability",
+      "fractional derivative",
+      "random"
+    ],
+    "npmi": 0.5116664419571869,
+    "mean_share": 0.0888877585530281,
+    "stability_cosine": 0.9999077081680298,
+    "representative_works": [
+      {
+        "id": "https://openalex.org/W2887407549",
+        "title": "Fuzzy fractional differential equations under Caputo–Katugampola fractional derivative approach",
+        "year": 2018,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2614134450",
+        "title": "Applications of contractive-like mapping principles to interval-valued fractional integro-differential equations",
+        "year": 2017,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2798973127",
+        "title": "Existence of extremal solutions to interval-valued delay fractional differential equations via monotone iterative technique",
+        "year": 2018,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4411353116",
+        "title": "A study on $$\\Psi$$-fractional iterative differential equations with a state-dependent nonlocal condition",
+        "year": 2025,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2939832879",
+        "title": "Hadamard-type fractional calculus for fuzzy functions and existence theory for fuzzy fractional functional integro-differential equations",
+        "year": 2019,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2947237106",
+        "title": "The existence of solutions for an initial value problem of Caputo-Hadamard-type fuzzy fractional differential equations of order α ∈ (1, 2)",
+        "year": 2019,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4401352830",
+        "title": "Regularization of an inverse source problem for fractional diffusion-wave equations under a general noise assumption",
+        "year": 2024,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3091965886",
+        "title": "Results on initial value problems for random fuzzy fractional functional differential equations",
+        "year": 2018,
+        "share": 1.0
+      }
+    ]
+  },
+  {
+    "topic": 6,
+    "top_terms": [
+      "economic",
+      "growth",
+      "economic growth",
+      "countries",
+      "development",
+      "trade",
+      "asean",
+      "fdi",
+      "green",
+      "economy",
+      "investment",
+      "developing",
+      "industrial",
+      "infrastructure",
+      "digital"
+    ],
+    "npmi": 0.2534187347094865,
+    "mean_share": 0.20928029716014862,
+    "stability_cosine": 0.9559511542320251,
+    "representative_works": [
+      {
+        "id": "https://openalex.org/W4388797896",
+        "title": "The impact of FDI on economic growth in developing countries: the role of FDI inflow and trade openness",
+        "year": 2023,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2901781153",
+        "title": "The Effect of Macroeconomic Variables on Economic Growth: A Cross-Country Study",
+        "year": 2018,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W3186588582",
+        "title": "The Impact of Digital Transformation on the Economic Growth of the Countries",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2779298520",
+        "title": "Analysing the Effects of the Exporting on Economic Growth in Vietnam",
+        "year": 2017,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4251232666",
+        "title": "Impact of super heavy load vehicles on transportation infrastructure: economic aspects",
+        "year": 2021,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4313490908",
+        "title": "THE ECONOMIC TRANSFORMATION IN CA MAU PROVINCE IN THE INDUSTRIAL TIME AND MODERNIZATION, 1997 - 2017 YEARS",
+        "year": 2023,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4401338932",
+        "title": "Discussion on Several Issues of Country Economic Development",
+        "year": 2024,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2901266810",
+        "title": "Evaluating the Impact of Official Development Assistance (ODA) on Economic Growth in Developing Countries",
+        "year": 2018,
+        "share": 1.0
+      }
+    ]
+  },
+  {
+    "topic": 7,
+    "top_terms": [
+      "stock",
+      "market",
+      "stock market",
+      "firms",
+      "listed",
+      "investors",
+      "price",
+      "portfolio",
+      "companies",
+      "returns",
+      "corporate",
+      "stock price",
+      "exchange",
+      "covid-",
+      "estate"
+    ],
+    "npmi": 0.3330572294140034,
+    "mean_share": 0.11757566779851913,
+    "stability_cosine": 0.9917910039424896,
+    "representative_works": [
+      {
+        "id": "HUB-review:AF-126",
+        "title": "THE INFLUENCE OF AUDIT OPINIONS ON STOCK MARKET PRICES - EMPIRICAL RESEARCH IN COMPANIES LISTED ON THE HO CHI MINH STOCK EXCHANGE",
+        "year": 2023,
+        "share": 1.0
+      },
+      {
+        "id": "HUB-review:AF-091",
+        "title": "Long-horizon portfolio returns: Evidence from stock distributions and investment horizons",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "HUB-review:AF-117",
+        "title": "MANAGING THE REAL ESTATE MARKET BASED ON STOCK",
+        "year": 2023,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4285259752",
+        "title": "COVID-19, Stimulus, Vaccination and Stock Market Performance",
+        "year": 2022,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W4392218605",
+        "title": "The impact of business and consumer confidence on stock market returns",
+        "year": 2020,
+        "share": 1.0
+      },
+      {
+        "id": "https://doi.org/10.17512/pjms.2023.27.2.18",
+        "title": "MANAGING THE REAL ESTATE MARKET BASED ON STOCK MARKET DEVELOPMENT AND MACRO FACTORS",
+        "year": 2023,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2901472903",
+        "title": "Mercury Retrograde and Stock Market Returns in Vietnam",
+        "year": 2018,
+        "share": 1.0
+      },
+      {
+        "id": "https://openalex.org/W2779079525",
+        "title": "The Impact of Supermoon on Stock Market Returns in Vietnam",
+        "year": 2017,
+        "share": 1.0
+      }
+    ]
+  }
+]

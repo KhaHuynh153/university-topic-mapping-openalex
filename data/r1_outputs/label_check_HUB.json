@@ -1,0 +1,98 @@
+[
+  {
+    "code": "CĐ1",
+    "data_index": 6,
+    "name": "Tăng trưởng kinh tế và thương mại",
+    "key_words": "growth; trade; export; import; fdi; foreign direct; gdp; macroeconom; economic development; inflation",
+    "hit_rate_11_30": 0.9,
+    "passes_70": true,
+    "hit_rate_other_topics": 0.0,
+    "distinctiveness": null,
+    "lda_top10_with_key": 0.3,
+    "validation_titles": "The impact of FDI on economic growth in developing countries: the role of FDI inflow and trade openness || Impacts of the Sectoral Transformation on the Economic Growth in Vietnam || The Contribution of Digitalization to FDI Inflows – Private Investment Nexus in Advanced Countries || The Effect of Macroeconomic Variables on Economic Growth: A Cross-Country Study || Evaluating the Impact of Official Development Assistance (ODA) on Economic Growth in Developing Countries || Discussion on Several Issues of Country Economic Development || Tourism and Development Issues of Highways (DCT) in Vietnam || Analysis of Factors Impacting Vietnam’s Agricultural Export to the EU Countries || The Relationship between Foreign Direct Investment, Current Account and Economic Growth in Vietnam: A Framework for International Capital Flow Management || EVALUATION OF THE TRADE RELATIONSHIP BETWEEN VIETNAM AND CHINA; VIETNAM AND UNITED STATES: A COMPARISON USING GRAVITY MODEL || Which Solow Model – Homogeneous Technology-, Heterogeneous Technology-, or Human Capital-Augmented – Best Explains OECD Growth? Fresh Evidence from Bayesian Monte Carlo Simulations || Economic Growth in EAGLE Emerging Economies: Exogenous or Endogenous? || EVALUATION OF THE TRADE RELATIONSHIP BETWEEN VIETNAM AND CHINA; VIETNAM AND UNITED STATES: A COMPARISON USING GRAVITY MODEL || The impact of foreign aid on FDI inflows in developing Asian countries: Policy implications for Vietnam || The impact of foreign aid on Foreign Direct Investment (FDI) inflows in developing Asian countries: Policy implications for Vietnam || Bayesian Hierarchical Modeling of Individual Effects: Renewables and Non-Renewables on Global Economic Growth || Vietnam-ASEAN Trade Balance, Current Situation and Solutions || How have NESTs grown? Explanations based on endogenous growth theory || Environmental Degradation, Economic Fundamentals and Migration in the Asian Region || Role of institutional quality in economic development: A case study of Asian countries"
+  },
+  {
+    "code": "CĐ2",
+    "data_index": 1,
+    "name": "Hành vi người tiêu dùng và dịch vụ",
+    "key_words": "consumer; customer; purchas; buy; brand; satisf; loyal; intention; service; tourist; shopping",
+    "hit_rate_11_30": 0.95,
+    "passes_70": true,
+    "hit_rate_other_topics": 0.03,
+    "distinctiveness": 33.2,
+    "lda_top10_with_key": 0.5,
+    "validation_titles": "Perception, Intention, and Buying Behavior of Vietnamese Consumers of Organic Food Products || Trust in sellers and purchase intention in social commerce: a study of the fashion industry || Trust in sellers and purchase intention in social commerce: a study of the fashion industry || Customers' Perceived Value, Satisfaction, and Loyalty in Online Securities Trading || Service failure recovery on customer recovery satisfaction and attitude loyalty for airline industry: the moderating effect of brand authenticity || Internet Banking Service Quality, Customer Satisfaction and Customer Loyalty || E-Payment Continuance Usage: The Roles of Perceived Trust and Perceived Security || Intention to Buy Organic Food to Keep Healthy: Evidence from Vietnam || User-Generated Content, Online Trust, and Purchase Intention: An Empirical Study of Social Commerce Platforms || Using SmartPLS 3.0 to Analyse Internet Service Quality in Vietnam || Exploring the Impact of Fear of Missing Out (FoMO) on Youth Shopping Intentions in Social Commerce Landscape || Understanding how upward social comparison stimulates impulse buying on image-sharing social commerce platforms: A moderated mediation model of benign envy and self-esteem || The Relationship between Upward Social Comparison on Social Networking Sites and Impulse Buying: The Mediating Role of Benign Envy || A moderated mediation model of situational context and brand image for online purchases using eWOM || The Digital Health with the Psychology of Fear of Missing Out in Electronic Commerce: Implications for Social Commerce and Purchase Intentions || The impact of social media marketing on brand engagement and consumer-based brand equity in Vietnam’s automotive industry || Intention to use social commerce: A study in Vietnam || Influencing brand love to brand loyalty: A case study of Phu Quoc fish sauce || Impact of Service Quality and Perceived Value on Customer Satisfaction and Behavioral Intentions: Evidence from Convenience Stores in Vietnam || Comparative analysis of the brand strategy of Big4 in electronics supermarkets in Vietnam"
+  },
+  {
+    "code": "CĐ3",
+    "data_index": 0,
+    "name": "Giáo dục và học ngôn ngữ",
+    "key_words": "student; learn; teach; educat; english; language; school; lectur; classroom; chinese; vocabular",
+    "hit_rate_11_30": 1.0,
+    "passes_70": true,
+    "hit_rate_other_topics": 0.01,
+    "distinctiveness": 70.0,
+    "lda_top10_with_key": 0.8,
+    "validation_titles": "Applying 5E teaching model in recognizing regular polygons and rotations with the help of GeoGebra software || Project-Based Learning on the Topic of Aromatic Wax Production || Non-verbal language application in language teaching and learning in the English classroom: A systematic review study || Attitude Towards Learning English: A Perspective from Students in Ho Chi Minh City || A Review of Researches on the Teaching of “Bi” （比） Sentences in Chinese as a Foreign Language in the Beginning of the 21st Century || Using the Problem-Based Learning in STEM Teaching About Bamboo Toothpick Houses || Self-Directed Learning Capacity by Differentiated Teaching – A Case Study of High School Students || A study on self-efficacy of students majoring in the Chinese language at a university in Ho Chi Minh City, Vietnam || Needs analysis in ESP context: A case study of People’s Police University Students || English Learning Strategies of Economics-majored Students at Banking University of Ho Chi Minh City || An Error Analysis of the Durative Aspect Mark “Zhe” (着) by Vietnamese Students at Elementary Chinese Level || A STUDY ON AUTONOMOUS LEARNING ABILITY OF CHINESE LANGUAGE MAJORS IN HO CHI MINH CITY UNIVERSITY OF EDUCATION || Teaching methods of history and geography and it influence for students in primary schools, vietnam || INTEGRATING MATHEMATICS AND ECONOMICS WITH THE SUPPORT OF GEOGEBRA SOFTWARE IN TEACHING THE SYSTEM OF FIRST-ORDER INEQUALITIES WITH TWO UNKNOWNS AT THE HIGH SCHOOL LEVEL || Classroom Behavior of English Majors at Ho Chi Minh University of Banking in Chinese Language || HARNESSING SMART E-LEARNING MATERIALS IN MATHEMATICAL EDUCATION IN GENERAL SCHOOLS || Half-Century of Application of Information Technology in Mathematics Education: From Web-Based Learning to Cloud-Based Learning || Bridging Political and Academic Discourse: A Pedagogical Framework for Teaching Textual Grammatical Metaphors || The discovery teaching of the problem of finding the shortest distance with the help of Geogebra software in Vietnam || Integrated Teaching of Extreme Geometric Problems in Vietnam"
+  },
+  {
+    "code": "CĐ4",
+    "data_index": 7,
+    "name": "Thị trường chứng khoán và tài chính doanh nghiệp",
+    "key_words": "stock; share price; investor; portfolio; listed; firm; corporate; dividend; capital structure; return",
+    "hit_rate_11_30": 0.95,
+    "passes_70": true,
+    "hit_rate_other_topics": 0.06,
+    "distinctiveness": 14.8,
+    "lda_top10_with_key": 0.0,
+    "validation_titles": "The impact of business and consumer confidence on stock market returns || CBOE volatility index (VIX) and corporate market leverage || Volatility spillovers from the Chinese stock market to the U.S. stock market: The role of the COVID-19 pandemic || The Influence of Peg and F_Score on Stock Return by Valued Investment Portfolios: Empirical Evidence from Vietnam || Approach portfolio selection for Vietnamese stock market based on nonlinear shrinkage method || GARCH Models in Forecasting the Volatility of the World’s Oil Prices || The Financing Decisions—A Case of Firms in Vietnam || Shrinkage Model Selection for Portfolio Optimization on Vietnam Stock Market || Are institutional investors colluding with manipulators? || The Black-Litterman Model for Portfolio Optimization on Vietnam Stock Market || Manipulating stock prices based on insider information || Corporate Governance Factors Impact on the Earnings Management – Evidence on Listed Companies in Ho Chi Minh Stock Exchange || Is the market biased in M&A, dividend payment, and share repurchase events? || Sleep quality and trading behavior of individual investors on the stock market || Frequency Domain Causality Analysis of Stock Market and Economic Activites in Vietnam || Portfolio optimization with MOPSO-Shrinkage hybrid model || Capital Structure Choices and Stock Market Volatility: Evidence from Chinese Listed Firms || Factors Affecting on the Stock Price Index in Vietnam || Higher co-moments and asset pricing on emerging stock markets by quantile regression approach || Trading behavior of institutional investors and CEO's market timing"
+  },
+  {
+    "code": "CĐ5",
+    "data_index": 4,
+    "name": "Ngân hàng thương mại: tín dụng và rủi ro",
+    "key_words": "bank; credit; loan; lending; capital adequacy; non performing; risk",
+    "hit_rate_11_30": 1.0,
+    "passes_70": true,
+    "hit_rate_other_topics": 0.19,
+    "distinctiveness": 5.2,
+    "lda_top10_with_key": 0.4,
+    "validation_titles": "The impact of climate transition risk on credit risk of Vietnamese commercial banks || The Impact of Non-Interest Income on the Performance of Commercial Banks in the ASEAN Region || Corporate governance and bank performance in Vietnam: the role of the board of directors || Impact of Capital Structure on Risk-taking of Vietnamese Commercial Banks || The Determinants of Non-interest Income of Banks with Dominant State Capital in Vietnam || Factors Affecting Green Credit Development at Commercial Banks in Việt Nam || The impact of capital structure on bank profitability: evidence from Vietnam || Impact of Macro and Micro Factors on Provision for Credit Risks of Commercial Banks in Vietnam: Approach on Python Programming Platform || Corporate governance and capital safety at Vietnamese joint stock commercial banks || Credit risk and bank efficiency in Vietnam: DEA-DDF and Bayesian Tobit approaches || Policy Recommendations for Green Credit Development at Commercial Banks in Vietnam || Impact of Credit Facilities and Contemporary Economic Environment on the Accessibility to Credit of Customers – Case Study In Binh Duong, Vietnam || SOME FACTORS AFFECTING THE SELECTION OF ELECTRONIC BANKING SERVICES BY INDIVIDUAL CUSTOMERS AT COMMERCIAL BANKS || FACTORS AFFECTING LIQUIDITY OF COMMERCIAL BANKS IN VIETNAM || Income Diversification Strategy in Banks and the Main Driver of Intellectual Capital: New Empirical Evidence from a Developing Country || Stress testing of credit risk for the Vietnamese Banking sector || Dealing with Weak Commercial Banks in Restructuring the System of Credit Institutions in Vietnam using Consolidation, Merger, and Acquisition: The Change from Administrative Orders to Market Mechanisms || Some solutions to improve customer relationship management at the commercial banks in Vietnam || The Impact of Digital Transformation on Performance: Evidence from Vietnamese Commercial Banks || The Determinants of Non-traditional Activities of Vietnamese Commercial Banks: The Role of Women, Private Sector and Foreign Investors"
+  },
+  {
+    "code": "CĐ6",
+    "data_index": 5,
+    "name": "Phương trình vi phân phân thứ",
+    "key_words": "fractional; differential; equation; fuzzy; integral; derivative; solution",
+    "hit_rate_11_30": 1.0,
+    "passes_70": true,
+    "hit_rate_other_topics": 0.01,
+    "distinctiveness": 70.0,
+    "lda_top10_with_key": 0.6,
+    "validation_titles": "Uncertain fractional differential equations on a time scale under Granular differentiability concept || A new technique to solve the initial value problems for fractional fuzzy delay differential equations || Non-instantaneous impulses interval-valued fractional differential equations with Caputo-Katugampola fractional derivative concept || On initial value problem of random fractional differential equation with impulses || The existence of solutions for an initial value problem of Caputo-Hadamard-type fuzzy fractional differential equations of order α ∈ (1, 2) || Application of Contractive-like Mapping Principles to Fuzzy Functional Differential Equation || A survey on random fractional differential equations involving the generalized Caputo fractional-order derivative || New continuity results for a class of time fractional stochastic heat equations in bounded and unbounded domains || Application of contractive-like mapping principles to impulsive fuzzy functional differential equation || On fractional random differential equations with delay || On the initial value problem for random fuzzy differential equations with Riemann-Liouville fractional derivative: Existence theory and analytical solution || A two-parameter Tikhonov regularization for a fractional sideways problem with two interior temperature measurements || A survey on the initial value problems of fuzzy implicit fractional differential equations || On the Caputo fractional random boundary value problem || Inverse initial‐value problems for time fractional diffusion equations in fractional Sobolev spaces || Existence of solutions to fractional boundary value problems at resonance in Hilbert spaces || Identifying inverse source for fractional diffusion equation with Riemann–Liouville derivative || Existence results for fuzzy Volterra integral equation || Liouville theorems for stable solutions of p-Laplace equations with convex nonlinearities || Liouville Results for Stable Solutions of Quasilinear Equations with Weights"
+  },
+  {
+    "code": "CĐ7",
+    "data_index": 2,
+    "name": "Thanh khoản ngân hàng và chính sách tiền tệ",
+    "key_words": "liquidity; monetary; uncertainty; funding; deposit; interest rate; bank run",
+    "hit_rate_11_30": 0.8,
+    "passes_70": true,
+    "hit_rate_other_topics": 0.01,
+    "distinctiveness": 56.0,
+    "lda_top10_with_key": 0.1,
+    "validation_titles": "Bank diversification and the effectiveness of monetary policy transmission: Evidence from the bank lending channel in Vietnam || Determinants of Bank Profitability in Vietnam || Monetary policy and bank performance: The role of business models || Do non-traditional banking activities reduce bank liquidity creation? Evidence from Vietnam || Bank funding, market power, and the bank liquidity creation channel of monetary policy || The Efficient Sterilization of Central Bank: Suitable Estimation Method || Exploring the asymmetric effects of loan portfolio diversification on bank profitability || Bank Liquidity Hoarding Strategies in Uncertain Times: New Evidence from an Emerging Market with Bank-level Data || Does sectoral loan portfolio composition matter for the monetary policy transmission? || Analysis of Monetary Policy Shocks in the New Keynesian Model for Viet Nams Economy: Rational Expectations Approach || Economic policy uncertainty and bank dividend policy || Does Internal Control Affect Bank Profitability in Vietnam? A Bayesian Approach || The bank lending channel of monetary policy transmission in Vietnam: Impacts of the COVID-19 pandemic and the financial crisis || The Impact of Monetary Policy on Bank Profitability and the Moderating Role of Funding Patterns in Vietnam || Funding Cost and Bank Liquidity Creation: Evidence from the U.S. || Uncertainty, bank opacity, and market structure || Funding liquidity and bank lending || Monetary Policy, Macroprudential Policy, Institutional Quality and Bank Risk: Evidence from Eagle Group || How does economic policy uncertainty affect bank business models? || Cyclicality of bank liquidity in Vietnam"
+  },
+  {
+    "code": "CĐ8",
+    "data_index": 3,
+    "name": "Ổn định và bao trùm tài chính (hỗn hợp)",
+    "key_words": "stability; inclusion; financial development; fragility; bayesian",
+    "hit_rate_11_30": 0.55,
+    "passes_70": false,
+    "hit_rate_other_topics": 0.03,
+    "distinctiveness": 19.2,
+    "lda_top10_with_key": 0.0,
+    "validation_titles": "Unlocking financial access in a developing country amidst COVID-19: the impacts of financial literacy and fintech || Factors Influencing the Financial Distress Probability of Vietnam Enterprises || Financial Knowledge and Short- and Long-Term Financial Behavior Across Gender and Generations: Evidence from Japan || Constructing a Financial Stress Index for Vietnam: An Application of Autoregressive Conditional Heteroskedastic Models || How Do Macroprudential Policy and Institutions Matter for Financial Stability? New Evidence from Eagles || Stabilizing the national banking system through digital financial inclusion, creative innovations, and green finance in low-financially developed economies || The effect of financial inclusion on bank stability: Evidence from ASEAN || Visualization and bibliometric analysis on the research of financial well-being || Mitigating role of macroprudential policy in the influence of cross-border banking flows on financial stability in Vietnam || Detecting Corporate Income Tax Non-compliance from Financial Statements: A Case Study of Vietnam || Institutional quality’s influence on financial inclusion’ impact on bank stability || Determinants of Variation in Human Development Index Before and After the Financial Crisis: A Bayesian Analysis for Panel Data Model || HOW MONETARY AND MACROPRUDENTIAL POLICIES INCREASE FINANCIAL STABILITY IN EAGLES? NEW EVIDENCE FROM A MONTE CARLO SIMULATION STUDY || Measuring Internal Factors Affecting the Competitiveness of Financial Companies: The Research Case in Vietnam || Bank Competition and Financial Stability: Empirical Evidence in Vietnam || Influence of Financial Development on Environmental Quality: Research Results from Developing Countries || The Role of Liability in Managing Financial Performance: The Investigation in the Vietnamese SMEs Context || The The Impact of Financial Development on Environmental Pollution in Asian Countries: Examining the Role of Corruption Control || Impacts of openness on financial development in developing countries: Using a Bayesian model averaging approach || FINANCIAL SUSTAINABILITY OF MICROFINANCE INSTITUTIONS IN VIET NAM"
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "n_abstract_docs": 985,
+  "liquidity_members_in_abstract_subset": 119,
+  "shared_liq_cb_in_abstract_subset": 44,
+  "cosine_main_liq_vs_each_abstract_topic": [
+    0.123,
+    0.029,
+    0.051,
+    0.063,
+    0.138,
+    0.028,
+    0.139,
+    0.701
+  ],
+  "cosine_main_cb_vs_each_abstract_topic": [
+    0.101,
+    0.053,
+    0.129,
+    0.16,
+    0.168,
+    0.017,
+    0.093,
+    0.823
+  ],
+  "best_abstract_topic_for_liq": 7,
+  "best_abstract_topic_for_cb": 7,
+  "abstract_topic_terms": {
+    "0": [
+      "financial",
+      "financial inclusion",
+      "stability",
+      "inclusion",
+      "bank stability",
+      "financial development",
+      "financial stability",
+      "threshold",
+      "development",
+      "countries"
+    ],
+    "1": [
+      "students",
+      "learning",
+      "teaching",
+      "language",
+      "english",
+      "education",
+      "learners",
+      "teachers",
+      "skills",
+      "school"
+    ],
+    "2": [
+      "brand",
+      "satisfaction",
+      "customer",
+      "quality",
+      "service",
+      "perceived",
+      "social",
+      "intention",
+      "service quality",
+      "online"
+    ],
+    "3": [
+      "industrial",
+      "green",
+      "development",
+      "digital",
+      "tourism",
+      "business",
+      "management",
+      "human",
+      "clusters",
+      "industrial clusters"
+    ],
+    "4": [
+      "stock",
+      "market",
+      "firms",
+      "stock market",
+      "corporate",
+      "investors",
+      "price",
+      "listed",
+      "companies",
+      "portfolio"
+    ],
+    "5": [
+      "fractional",
+      "equations",
+      "differential",
+      "fuzzy",
+      "solution",
+      "problem",
+      "equation",
+      "existence",
+      "derivative",
+      "differential equations"
+    ],
+    "6": [
+      "growth",
+      "economic",
+      "trade",
+      "countries",
+      "economic growth",
+      "asean",
+      "fdi",
+      "asean countries",
+      "bayesian",
+      "investment"
+    ],
+    "7": [
+      "banks",
+      "bank",
+      "commercial",
+      "commercial banks",
+      "liquidity",
+      "banking",
+      "risk",
+      "uncertainty",
+      "credit",
+      "lending"
+    ]
+  },
+  "dominant_topic_of_liq_members_in_abstract_model": {
+    "CĐ5": 78,
+    "CĐ1": 9,
+    "CĐ8": 7,
+    "CĐ4": 19,
+    "CĐ7": 4,
+    "CĐ3": 1,
+    "CĐ6": 1
+  },
+  "dominant_topic_of_shared_in_abstract_model": {
+    "CĐ5": 44
+  },
+  "mean_aligned_theta_of_liq_members": {
+    "CĐ3": 0.011,
+    "CĐ2": 0.008,
+    "CĐ7": 0.043,
+    "CĐ8": 0.075,
+    "CĐ5": 0.567,
+    "CĐ6": 0.019,
+    "CĐ1": 0.119,
+    "CĐ4": 0.157
+  },
+  "main_liq_terms": [
+    "bank",
+    "liquidity",
+    "uncertainty",
+    "monetary",
+    "policy",
+    "monetary policy",
+    "lending",
+    "funding",
+    "bank liquidity",
+    "liquidity creation"
+  ]
+}

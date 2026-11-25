@@ -1,0 +1,43 @@
+{
+  "k": 8,
+  "chosen_seed": 3,
+  "n_corpus": 1337,
+  "n_model_eligible": 1335,
+  "settings": {
+    "model": "TF-IDF + NumPy Euclidean NMF; inherited tokenizer plus place stop words",
+    "features": 3000,
+    "max_iter": 160,
+    "seeds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "place_stop": [
+      "chi",
+      "city",
+      "hcmc",
+      "hochiminh",
+      "minh"
+    ]
+  },
+  "file_sha256": {
+    "refresh_hub.py": "f0406d6a2dea2c1641c9e18719a54faba82cda7a652fbe4e6b9b3de61ba11935",
+    "corpus_refreshed.jsonl": "3c878c486a3287e2339ccbc79ea1481fe8554fc7a5b4aa08c35c8f178ae6a6a9",
+    "vocabulary.json": "0bf282e08a0943aa7baf371bcf045821484382ed203c79e18c5857cefb928c3c",
+    "components_k8.npy": "36b2f6929a4f8401981de6c89fc1a5f78812bafc36df8518c6cd6620289f5a92",
+    "theta_k8.npy": "6dc9bd4f46304aad851d92b522c5cd78b6fbe115bcc71112ad53909b7c5a1f94",
+    "topics_k8.json": "bcad449609611c928e999174a20bcbfedc28eaabbc7da62a4b2528b511ac671c",
+    "documents_k8.csv": "ed73cb6d31b4c38088bf47500b0060b0fda5bccfa8863ebb74bbdd4ffd26e078",
+    "sensitivity_k8.json": "2688ba8e4eabdd8896ac3abf26455c0d6a1a9604221bdc249f12ba90e8d728b0",
+    "trend_contrasts_k8.csv": "0f18a5f1c92fe8acafa418eecc31e318774c68c269308eb2443b544662af052a",
+    "model_eligibility.json": "72854bbf42461f22e02f7cedc03822473c36fef463e4a8f3efd79b506bd1d7e3"
+  },
+  "interpretation_status": "computational coordinates fixed; topic labels provisional pending expert review"
+}

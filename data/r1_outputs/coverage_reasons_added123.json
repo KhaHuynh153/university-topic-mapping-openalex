@@ -1,0 +1,10 @@
+{
+  "strong|D_name_string_not_linked": 1,
+  "moderate|B_no_affiliation_string": 28,
+  "moderate|C_strings_without_name": 8,
+  "moderate|covered": 5,
+  "strong|B_no_affiliation_string": 1,
+  "moderate|A_not_in_openalex": 36,
+  "strong|A_not_in_openalex": 39,
+  "strong|covered": 5
+}
